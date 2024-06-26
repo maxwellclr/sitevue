@@ -20,7 +20,7 @@
         <div class="button-container">
           <a href="#button" class="btn btn-primary btn-round btn-lg">Follow</a>
           <a
-            href="https://www.linkedin.com/in/maxwell-clemente-b5a60017a/"
+            href="https://www.linkedin.com/in/maxwellclemente/"
             class="btn btn-default btn-round btn-lg btn-icon"
             rel="tooltip"
             title="Follow me on linkedIn"

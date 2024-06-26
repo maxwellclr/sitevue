@@ -29,7 +29,7 @@
           rel="tooltip"
           title="Follow us on LinkedIn"
           data-placement="bottom"
-          href="https://www.linkedin.com/in/maxwell-clemente-b5a60017a/"
+          href="https://www.linkedin.com/in/maxwellclemente/"
           target="_blank"
         >
         <i class="fab fa-linkedin"></i>

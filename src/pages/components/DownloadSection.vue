@@ -22,7 +22,7 @@
           </a>
           <a
             target="_blank"
-            href="https://www.linkedin.com/in/maxwell-clemente-b5a60017a/"
+            href="https://www.linkedin.com/in/maxwellclemente/"
             class="btn btn-neutral btn-icon btn-linkedin btn-lg btn-round"
             rel="tooltip"
             title="Follow us"
